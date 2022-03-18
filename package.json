@@ -1,6 +1,6 @@
 {
   "name": "generator-ehsan-gulp-sass",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Generates a scaffolding for a front-end workflow with Gulp and Sass",
   "main": "index.js",
   "dependencies": {
